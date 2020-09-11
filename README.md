@@ -1,2 +1,2 @@
 # Assignment02
-Pending
+### VIC-Validity-Index-Python-Weka
